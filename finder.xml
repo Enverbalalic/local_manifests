@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="Enverbalalic/android_device_oppo_finder" path="device/oppo/finder" revision="cm-11.0" />
+    <project name="Enverbalalic/android_kernel_oppo_finder" path="kernel/oppo/finder" revision="cm-11.0" />
+    <project name="Enverbalalic/proprietary_vendor_oppo" path="vendor/oppo" revision="android-4.4" />
+</manifest>
